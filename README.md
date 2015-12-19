@@ -1,0 +1,2 @@
+# rename_files_in_txt_list_with_python_and_bat
+rename_files_in_txt_list_with_python_and_bat,根据txt文件列表重命名文件，python版本和bat版本
